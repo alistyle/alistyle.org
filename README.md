@@ -15,7 +15,7 @@ Alistyle是一套阿里巴巴集团内部系统样式库，它继承自[aliceui]
 
 ## 联系我们
 
-[@昊祯] [@陈思梦]
+[@昊祯](http://www.cnblogs.com/keva/) [@陈思梦]
 
 ## 加入我们
 
