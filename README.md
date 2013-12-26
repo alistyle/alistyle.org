@@ -7,7 +7,7 @@
 
 ## Alistyle是什么
 
-Alistyle是一套阿里巴巴集团内部系统样式库，它继承自aliceui(https://github.com/aliceui/aliceui.org)，aliceui主要满足于淘系页面前端需求，而alistyle则倾向于满足阿里巴巴内部系统的页面需求。
+Alistyle是一套阿里巴巴集团内部系统样式库，它继承自[aliceui](https://github.com/aliceui/aliceui.org)，aliceui主要满足于淘系页面前端需求，而alistyle则倾向于满足阿里巴巴内部系统的页面需求。
 
 ## 兼容性
 
